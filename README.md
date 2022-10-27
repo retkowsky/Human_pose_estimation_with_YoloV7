@@ -4,3 +4,10 @@ Unlike conventional Pose Estimation algorithms, YOLOv7 pose is a single-stage mu
 
 YOLOv7 Pose is trained on the COCO dataset which has 17 landmark topologies.
 It is implemented in PyTorch making the code super easy to customize as per your need.
+
+<img src="pose.jpg">
+
+<img src="pose (1).jpg">
+<img src="pose(1).jpg">
+<img src="pose(1).jpg">
+<img src="pose(1).jpg">
