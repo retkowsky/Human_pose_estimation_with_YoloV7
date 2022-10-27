@@ -13,3 +13,7 @@ It is implemented in PyTorch making the code super easy to customize as per your
 <img src="imgpose (1).jpg" width="512">
 <img src="imgpose (2).jpg" width="512">
 <img src="imgpose (4).jpg" width="512">
+
+27-Oct-2022
+
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
